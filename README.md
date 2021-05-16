@@ -28,5 +28,8 @@ The following steps were performed to generate the images:
 1. Compile and run the Java program **CoordsToJpg.java** which will convert the coordinate file into images. 
 1. Split your images into the appropriate classes. An example folder has been provided (**images_ecoli/**) which contains a training and testing directory and the images that can be used to train a model and test it on the E. coli genome. 
 
+To cite this work, please use:
 
+<hr/>
+Assaf, R., Xia, F. & Stevens, R. Detecting operons in bacterial genomes via visual representation learning. Sci Rep 11, 2124 (2021). https://doi.org/10.1038/s41598-021-81169-9
 
